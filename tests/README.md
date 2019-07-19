@@ -1,3 +1,4 @@
+## Instructions to execute the test script
 In order to execute the 'simulationScript.py' follow these steps:
 - Install SUMO.	(the traffic simulation program that we used)
 - Declare the environment variable named 'SUMO_HOME'
