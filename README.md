@@ -10,5 +10,5 @@ Current  traffic  lights  approach  is  based  on  pre-defined  cycles  or  manu
   - SUMO
   - LateX
 
-
+### Credits
 ![Credits](Credits.png)
