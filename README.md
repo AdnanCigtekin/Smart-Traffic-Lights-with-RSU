@@ -9,3 +9,6 @@ Current  traffic  lights  approach  is  based  on  pre-defined  cycles  or  manu
   - Python
   - SUMO
   - LateX
+
+
+![Credits](Credits.png)
